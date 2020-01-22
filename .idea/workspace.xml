@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42477b88-9c69-4df7-a782-2ffef0001644" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pycharmtest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+    <list default="true" id="42477b88-9c69-4df7-a782-2ffef0001644" name="Default Changelist" comment="added main.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,17 +82,60 @@
       <option name="presentableId" value="Default" />
       <updated>1579688475299</updated>
     </task>
+    <task id="LOCAL-00001" summary="added main.py">
+      <created>1579691095595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579691095595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added main.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="949" y="18" key="#main" timestamp="1579689176723">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="949" y="18" key="#main/0.0.1536.824@0.0.1536.824" timestamp="1579689176723" />
+    <state x="366" y="16" width="1122" height="808" key="CommitChangelistDialog2" timestamp="1579691514996">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="366" y="16" width="1122" height="808" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579691514996" />
     <state x="412" y="279" key="FileChooserDialogImpl" timestamp="1579690979399">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="412" y="279" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579690979399" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1579691393804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579691393804" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1579691393804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579691393804" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1579691393803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579691393803" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1579691393804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579691393804" />
     <state x="440" y="112" key="SettingsEditor" timestamp="1579690996469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
